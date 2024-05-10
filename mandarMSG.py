@@ -4,8 +4,8 @@ import requests
 import re 
 import sys
 
-idBot='7196173462:AAFaNlrNnuhbHOmsu9nppRKwsFiXE0P6gyM'
-idChat='2013519417'
+idBot=''
+idChat=''
 ruta_conexiones_filtradas="/home/admin1/paquetesFiltrados.txt"
 
 def borrarContenido(ruta_archivo):
